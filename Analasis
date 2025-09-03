@@ -1,0 +1,10 @@
+ANALISIS
+Pada praktikum kali ini, pada saat code dijalankan atau program dijalankan yang pertama kali muncul yaitu fitur kamera yang dimana dalam kamera tersebut terlihat frame deteksi warna
+Namun tidak semua warna bisa muncul atau terdeteksi oleh kamera. hanya warna hijau, biru, merah, kuning
+jika dikamera terlihat 4 warna tersebut maka akan ada frame deteksi yang menampilkan identifikasi warna berupa frame dengan warna yang terindentifikasi dan keterangan warna 
+
+KENDALA
+Pada saat install code PIP python tidak bisa karena tidak terdeteksi 
+
+SOLUSI 
+Install python dengan versi yang lebih lama 
